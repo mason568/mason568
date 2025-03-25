@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mason568
-- 👀 I’m interested in cryptography, Jay, Movies, and expanding on my bed.
-- 🌱 I’m currently learning Symmetric Encryption and some attack methods. 
-- 💞️ I’m looking to collaborate on cube attack.
+- 👀 I'm interested in cook.
+- 🌱 I'm currently working on the development of post-quantum cryptography algorithms. 
+- 💞️ I'm trying to connect with AI.
 - 📫 Sending Email to perrymason568@163.com to reach me.
 
 <!---
